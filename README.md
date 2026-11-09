@@ -1,180 +1,146 @@
- <div align="center">
+<!-- ============================================================
+     MAYAR | GITHUB PROFILE README
+     استبدلي YOUR_GITHUB_USERNAME باسم مستخدمك الحقيقي في كل مكان
+     ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:11152A,45:512B91,100:C04491&height=190&section=header&text=MAYAR&fontSize=76&fontColor=FFFFFF&fontAlignY=45&desc=WEB%20DEVELOPMENT%20%20%7C%20%20UI%2FUX%20DESIGN%20%20%7C%20%20DATABASE%20DESIGN&descSize=14&descAlignY=72&descColor=E9D5FF" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:DB2777&height=230&section=header&text=Mayar&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20UI%2FUX%20%7C%20Database%20Design&descSize=18&descAlignY=60" alt="Mayar banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+clean+and+responsive+interfaces;Designing+structured+and+reliable+databases;Turning+ideas+into+polished+products" alt="Typing animation" />
 
 <br/>
 
-### ✦ Turning ideas into elegant digital experiences.
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=C4A5FF&center=true&vCenter=true&width=600&lines=Designing+beautiful+digital+experiences;Building+modern+and+responsive+websites;Exploring+UI%2FUX+and+database+architecture;Always+learning.+Always+creating." />
-</p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=DB2777&label=Followers" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
-## 01 / ABOUT ME
+## About
 
-Hi, I'm **Mayar** — a developer and creative thinker passionate about transforming ideas into meaningful digital experiences.
-
-I enjoy the intersection of technology and design, where clean code meets beautiful interfaces and thoughtful functionality.
-
-- Creating modern and responsive web experiences.
-- Exploring UI/UX principles and visual design.
-- Designing structured and efficient databases.
-- Building interfaces with attention to detail.
-- Continuously learning, experimenting, and growing.
-
-> "Good design is not just how it looks. It's how it works."
-
----
-
-## 02 / WHAT I DO
+I'm **Mayar**, a developer who sits between design and engineering. I build clean, responsive web interfaces and the structured databases that power them, with a focus on usability, clarity, and maintainable code.
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### ◈ Frontend Development
-
-Building clean, responsive, and engaging web interfaces.
-
-- Responsive Web Design
-- Modern UI Components
-- Layout & Visual Hierarchy
-- Interactive Experiences
-- Frontend Optimization
+**Currently**
+- Building responsive websites and landing pages
+- Designing relational database schemas
+- Strengthening my SQL and backend fundamentals
 
 </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-### ◈ UI / UX Design
-
-Turning complex ideas into intuitive user experiences.
-
-- User Interface Design
-- User Experience Principles
-- Wireframing & Prototyping
-- Design Consistency
-- Usability & Accessibility
+**Interested in**
+- Design systems and reusable components
+- Accessibility and performance
+- Clean architecture and data modeling
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Database Design
-
-Organizing information into reliable and efficient structures.
-
-- Database Architecture
-- Data Modeling
-- Relationships & Normalization
-- SQL Queries
-- Data Organization
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Creative Development
-
-Combining technical thinking with creative problem-solving.
-
-- Problem Solving
-- Clean Code
-- Creative Projects
-- Continuous Improvement
-- Exploring New Technologies
-
-</td>
-</tr>
+  </tr>
 </table>
 
----
+<br/>
 
-## 03 / TECHNOLOGY STACK
+## What I Do
 
-### Development
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>Frontend</h3>
+      <p>Responsive layouts, consistent UI, and reusable components with attention to detail.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>UI / UX</h3>
+      <p>Clear navigation, visual hierarchy, and interfaces that feel intuitive to use.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>Databases</h3>
+      <p>Normalized schemas, meaningful relationships, and efficient queries.</p>
+    </td>
+  </tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
-</p>
+<br/>
 
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb&theme=dark" />
-</p>
-
-### Tools & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" />
-</p>
-
----
-
-## 04 / FEATURED PROJECTS
+## Tech Stack
 
 <div align="center">
 
-| PROJECT | DESCRIPTION |
-|:---|:---|
-| **Web Experiences** | Modern, responsive websites with thoughtful interfaces. |
-| **UI/UX Concepts** | Creative layouts and user-centered design experiments. |
-| **Database Projects** | Structured data models and database solutions. |
+| | |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools" /> |
 
 </div>
 
-<p align="center">
-  <i>More projects and experiments are coming soon.</i>
-</p>
+> Keep only the technologies you genuinely use or are actively learning.
 
----
+<br/>
 
-## 05 / GITHUB ANALYTICS
+## Featured Projects
+
+<!-- استبدلي العناوين والأوصاف والروابط بمشاريعك الحقيقية -->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Website Project</h3>
+      <p>A responsive multi-page website with clean design, smooth navigation, and a polished user experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Database Project</h3>
+      <p>A relational database design with organized tables, defined relationships, and well-structured queries.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO">View repository →</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B0D17&title_color=C4A5FF&text_color=D5D8E8&icon_color=F472B6&rank_icon=percentile" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=DB2777&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B0D17&title_color=C4A5FF&text_color=D5D8E8" />
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B0D17&ring=A78BFA&fire=F472B6&currStreakLabel=C4A5FF&sideLabels=D5D8E8&dates=9298B0&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=A78BFA&fire=DB2777&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak" />
 
 </div>
 
----
+<br/>
 
-## 06 / CURRENT FOCUS
+## Let's Connect
 
-- Expanding frontend development skills.
-- Improving UI/UX design knowledge.
-- Exploring database architecture.
-- Creating meaningful personal projects.
-- Learning modern development workflows.
-
----
-
-## 07 / CONNECT
+I'm open to collaboration, feedback, and new opportunities. Feel free to reach out.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-**Thanks for visiting my little corner of the internet.**
-
-<sub>Designed with creativity · Built with curiosity · Powered by passion.</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:11152A,50:512B91,100:C04491&height=65&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:7C3AED,100:4C1D95&height=100&section=footer" alt="Footer" />
 
 </div>
