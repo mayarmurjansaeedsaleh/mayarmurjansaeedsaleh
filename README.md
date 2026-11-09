@@ -134,9 +134,9 @@ I'm **Mayar**, a developer who sits between design and engineering. I build clea
 I'm open to collaboration, feedback, and new opportunities. Feel free to reach out.
 
 <div align="center">
+<img width="635" height="561" alt="Capture" src="https://github.com/user-attachments/assets/5a138efe-9c77-4c9b-a4b2-1ab4653ec98a" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+ /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
