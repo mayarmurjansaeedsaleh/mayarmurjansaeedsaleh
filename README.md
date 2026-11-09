@@ -67,7 +67,7 @@ const mayar = {
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/697e4334-4814-4722-8743-245dc3931141" width="100%" alt="Animated code editor"/>
+<img src="https://github.com/user-attachments/assets/697e4334-4814-4722-8743-245dc3931141" width="700%" alt="Animated code editor"/>
 
 </div>
 
